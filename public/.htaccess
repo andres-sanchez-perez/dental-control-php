@@ -15,8 +15,7 @@ Options All -Indexes
 	# change the following line to match the subfolder you need.
 	# http://httpd.apache.org/docs/current/mod/mod_rewrite.html#rewritebase
 	# RewriteBase /
-	RewriteCond %{REQUEST_URI} !^public
-	RewriteRule ^(.*)$ public/$1 [L]
+	
 	# Redirect Trailing Slashes...
 	RewriteCond %{REQUEST_FILENAME} !-d
 	RewriteCond %{REQUEST_URI} (.+)/$
