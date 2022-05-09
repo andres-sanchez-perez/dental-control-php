@@ -19,14 +19,11 @@ $(document).ready(function(){
             $("#CirujiasPrevias").css("display", "block");
         }else{
             $("#CirujiasPrevias").css("display", "none");
-    }
+        }
+    });
 
+    $('#ComboConBusqueda').select2();
     
-    $("#ComboConBusqueda").select2({
-        minimumInputLength: 2
-    });
-
-    });
     if($('input[name="Cirujia"]:checked').val()=="No"){
         $("#CirujiasPrevias").css("display", "none");
     }
