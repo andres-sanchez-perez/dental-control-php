@@ -21,10 +21,9 @@ $(document).ready(function(){
             $("#CirujiasPrevias").css("display", "none");
     }
 
-    $(function() {
-        $('.selectpicker').selectpicker();
-      });
-   
+    $(function(){
+        $('#ComboConBusqueda').select2();
+    });
 
     });
     if($('input[name="Cirujia"]:checked').val()=="No"){

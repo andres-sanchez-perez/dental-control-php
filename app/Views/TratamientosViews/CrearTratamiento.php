@@ -13,7 +13,7 @@
                      <div class="form-group">    
                         <label class="font-weight-bold" for="ComboConBusqueda">Seleccione el paciente que va a ingresar un tratamiento</label>
                         <br/>
-                        <select id="ComboConBusqueda" class="form-control selectpicker " data-live-search="true" aria-label="Default select example" name="idHistorial">
+                        <select id="ComboConBusqueda" class="form-select " aria-label="Default select example" name="idHistorial">
                             <option selected value="-1">Seleccione un paciente</option>
                             <?php foreach($historiales as $historial):?>
                                 <option value="<?=$historial['id_historial'];?>"><?=$historial['NombreCompleto'];?></option>
