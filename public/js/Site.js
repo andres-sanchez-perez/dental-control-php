@@ -21,7 +21,9 @@ $(document).ready(function(){
             $("#CirujiasPrevias").css("display", "none");
     }
 
-     $('#ComboConBusqueda').select2();
+    $(function() {
+        $('.selectpicker').selectpicker();
+      });
    
 
     });
