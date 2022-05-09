@@ -116,6 +116,7 @@ class Pacientes extends BaseController{
         $historial = new Historial();
         $historial->insert($data);
         if($necesitaAnt){
+            "hey";
             $url = "/agregarAntecedente/".$agregar;
             return redirect()->to($url);
         }
