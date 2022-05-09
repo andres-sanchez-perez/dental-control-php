@@ -13,6 +13,15 @@
     <script src="<?=base_url('/js/bootstrap.bundle.min.js');?>"></script>
     <script src="<?=base_url('/js/Site.js');?>"></script>
     <script src="<?=base_url('/js/select2.min.js');?>"></script>
+    <link rel="stylesheet" href="<?=base_url('/css/bootstrap.min.css');?>" />
+    <link rel="stylesheet" href="<?=base_url('/css/site.css');?>"/>
+    <link rel="stylesheet" href="<?=base_url('/css/jquery-ui.min.css');?>" />
+    <link rel="stylesheet" href="<?=base_url('/css/select2.min.css');?>" />
+    <script src="dental-control.herokuapp.com/js/jquery-3.5.1.min.js"></script>
+    <script src="<?=base_url('/js/jquery-ui.min.js');?>"></script>
+    <script src="<?=base_url('/js/bootstrap.bundle.min.js');?>"></script>
+    <script src="<?=base_url('/js/Site.js');?>"></script>
+    <script src="<?=base_url('/js/select2.min.js');?>"></script>
 </head>
 <body>
 </nav>
