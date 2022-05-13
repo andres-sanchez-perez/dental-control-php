@@ -11,19 +11,19 @@
                         <input type="hidden" name="id_paciente" value="<?=$pacienteId;?>">
                     </div>
                     <div class="form-group">
-                        <input type="hidden" name="id_tratamiento" value="<?=$Tratamientos['id_tratamiento'];?>">
+                        <input type="hidden" name="id_tratamiento" value="<?=$Tratamientos[0]['id_tratamiento'];?>">
                     </div>
                     <div class="form-group">
                         <label class="font-weight-bold" for="Nombre">Nombre del tratamiento</label>
-                        <input readonly id="Nombre" value="<?=$Tratamientos['Nombre'];?>" class="form-control" type="text" name="Nombre">
+                        <input readonly id="Nombre" value="<?=$Tratamientos[0]['Nombre'];?>" class="form-control" type="text" name="Nombre">
                     </div>
                     <div class="form-group">
-                        <label class="font-weight-bold" for="Saldor">Saldo</label>
-                        <input readonly id="Saldo" value="<?=$Tratamientos['Saldo'];?>" class="form-control" type="text" name="Saldo">
+                        <label class="font-weight-bold" for="Saldo">Saldo</label>
+                        <input readonly id="Saldo" value="<?=$Tratamientos[0]['Saldo'];?>" class="form-control" type="text" name="Saldo">
                     </div>
                     <div class="form-group">
                         <label class="font-weight-bold" for="decimales">Abono del paciente</label>
-                        <input id="decimales"class="form-control" type="text" name="Abono">
+                        <input id="abonoPaciente"class="form-control abonoPaciente" type="text" name="Abono">
                     </div>
                     <div class="form-group">
                         <label class="font-weight-bold" for="SaldoRestante">Saldo pendiente con el pago actual</label>

@@ -89,6 +89,7 @@ class Tratamientos extends BaseController{
         $tratamiento->delete($datosTratamiento);
         return redirect()->to(base_url('/verTratamientos/'.$IdPaciente));
     }
+
     public function editarTratamiento($id=null,$idPaciente=null){
         $tituloPagina['TituloPagina'] = "Editar Tratamiento";
         $datos['header'] = view('templates/Header',$tituloPagina);
@@ -101,7 +102,7 @@ class Tratamientos extends BaseController{
     public function actualizarTratamiento(){
         $tratamiento = new Tratamiento();
         $id = $this->request->getVar('id_tratamiento');
-        $idPaciente= $this->request->getVar('id_Paciente');
+        $idPaciente= $this->request->getVar('id_paciente');
         $datos = $tratamiento->where('id_tratamiento',$id)->first();
         $datos['Abono'] += floatval($this->request->getVar('Abono'));
         $datos['Saldo'] = $datos['Presupuesto'] - $datos['Abono'];

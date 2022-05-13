@@ -71,3 +71,4 @@ $routes->get('crearPaciente', 'Pacientes::crearPaciente');
 $routes->post('nuevoPaciente', 'Pacientes::guardar');
 $routes->post('actualizarPaciente', 'Pacientes::actualizarPaciente');
 $routes->post('login', 'Users::login');
+$routes->post('actualizarTratamiento', 'Tratamientos::actualizarTratamiento');

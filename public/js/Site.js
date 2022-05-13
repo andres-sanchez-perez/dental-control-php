@@ -1,13 +1,18 @@
 $(document).ready(function(){
-    $('#abonoPaciente').change(function(){
-        if($('#abonoPaciente').val==''){
-            $('#SaldoRestante').val($('#Saldo').val-0);
+    $('#abonoPaciente').on('input',function(){
+        if($(this).val()==''){
+            $('#SaldoRestante').val(parseFloat($('#Saldo').val())-0);
             return;
         }
-        $('#SaldoRestante').val($('#Saldo').val-$('#abonoPaciente').val);
+        $('#SaldoRestante').val(parseFloat($('#Saldo').val())-parseFloat($('#abonoPaciente').val()));
         return;
     });
+   
+    $('#SaldoRestante').val(parseFloat($('#Saldo').val())-0);
     $('#decimales').on('input', function () {
+        this.value = this.value.replace(/[^0-9,.]/g, '').replace(/,/g, '.');
+      });
+      $('#abonoPacientes').on('input', function () {
         this.value = this.value.replace(/[^0-9,.]/g, '').replace(/,/g, '.');
       });
 
