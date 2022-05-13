@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?=$TituloPagina?></title>
-    <!-- <link rel="stylesheet" href="<?=base_url('/css/bootstrap.min.css');?>" />
+    <link rel="stylesheet" href="<?=base_url('/css/bootstrap.min.css');?>" />
     <link rel="stylesheet" href="<?=base_url('/css/site.css');?>"/>
     <link rel="stylesheet" href="<?=base_url('/css/jquery-ui.min.css');?>" />
     <link rel="stylesheet" href="<?=base_url('/css/select2.min.css');?>" />
@@ -12,8 +12,8 @@
     <script src="<?=base_url('/js/jquery-ui.min.js');?>"></script>
     <script src="<?=base_url('/js/bootstrap.bundle.min.js');?>"></script>
     <script src="<?=base_url('/js/Site.js');?>"></script>
-    <script src="<?=base_url('/js/select2.min.js');?>"></script> -->
-    <link rel="stylesheet" href="//css/bootstrap.min.css" />
+    <script src="<?=base_url('/js/select2.min.js');?>"></script>
+    <!-- <link rel="stylesheet" href="//css/bootstrap.min.css" />
     <link rel="stylesheet" href="//css/site.css"/>
     <link rel="stylesheet" href="//css/jquery-ui.min.css" />
     <link rel="stylesheet" href="//css/select2.min.css" />
@@ -21,7 +21,7 @@
     <script src="//js/jquery-ui.min.js"></script>
     <script src="//js/bootstrap.bundle.min.js"></script>
     <script src="//js/Site.js"></script>
-    <script src="//js/select2.min.js"></script>
+    <script src="//js/select2.min.js"></script> -->
 </head>
 <body>
 </nav>
