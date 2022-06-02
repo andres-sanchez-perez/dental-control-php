@@ -37,7 +37,6 @@ $(document).ready(function(){
     $('#ComboProductos').select2();
     $('#ComboProductos').change(function(){
         var base_url = window.location.origin;
-
         $.ajax({
             type:'get',
             url: base_url+"/Inventarios/getSingleProduct",
@@ -49,7 +48,7 @@ $(document).ready(function(){
                 $('#CantidadActual').val(data.inventario[0].CantidadActual);
                 $('#CantidadMaxima').val(data.inventario[0].CantidadMaxima);
                 $('#CantidadMinima').val(data.inventario[0].CantidadMinima);
-                data.inventario[0].id_inventario;
+                
             },
             error: function(){
                 alert("Esto es un error");

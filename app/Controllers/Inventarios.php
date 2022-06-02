@@ -190,9 +190,12 @@ class Inventarios extends BaseController{
     }
 
     public function getSingleProduct($id=null){
-        print($id);
+        
         $inventarios = new Inventario();
-        $data['inventario'] = $inventarios->find($id);
+        $sql= "SELECT id_inventario,Nombre,Precio,Tipo,CantidadActual,CantidadMinima,Prioridad,CantidadMaxima,Medida from inventario where id_inventario  = ". $_GET['id'];
+        $query = $inventarios->db->query($sql);
+        $inventario = $query->getResultArray();
+        $data['inventario'] = $inventario;
         return json_encode($data,JSON_FORCE_OBJECT);
     }
 }

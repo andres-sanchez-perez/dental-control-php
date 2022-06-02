@@ -440,3 +440,150 @@ CRITICAL - 2022-06-02 15:09:54 --> Call to undefined method App\Models\Inventari
 #3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #5 {main}
+ERROR - 2022-06-02 16:12:39 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 16:12:39 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:12:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 16:12:48 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-02 16:18:08 --> Call to undefined method App\Models\Inventario::getRow
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(195): CodeIgniter\Model->__call('getRow', Array)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 16:18:17 --> Call to undefined method App\Models\Inventario::getRow
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(195): CodeIgniter\Model->__call('getRow', Array)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-02 16:21:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 16:21:25 --> Call to a member function getRowArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:21:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 16:21:37 --> Call to a member function getRowArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:21:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 16:21:42 --> Call to a member function getRowArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-02 16:45:49 --> Undefined array key "id_inventario"
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(197): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 197)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 16:45:59 --> Undefined array key "id_inventario"
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(197): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 197)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 16:47:31 --> Undefined array key 0
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 198)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 16:47:38 --> Undefined array key 0
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(198): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 198)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-02 16:52:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 16:52:03 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:54:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 16:54:02 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:54:50 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 16:54:50 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:54:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 16:54:54 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:56:18 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-06-02 16:56:18 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:58:00 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-06-02 16:58:00 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:58:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-06-02 16:58:06 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:58:12 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-06-02 16:58:12 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 16:59:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-06-02 16:59:05 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 17:00:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+CRITICAL - 2022-06-02 17:00:57 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
