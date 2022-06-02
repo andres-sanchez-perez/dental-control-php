@@ -42,7 +42,6 @@
                                         <td><?=$inventario['CantidadActual']?></td>
                                         <td><?=$inventario['Medida']?></td>
                                         <td>
-                                            <a id="EditarPaciente" href="<?=base_url('/editarPaciente/'.$inventario['id_inventario']);?>" class="btn btn-primary" type="button">Editar</a>
                                             <a id="DeletePaciente" href="<?=base_url('/borrarProducto/'.$inventario['id_inventario']);?>" class="btn btn-danger" type="button">Borrar</a>
                                         </td>
                                     </tr>
@@ -55,7 +54,6 @@
                                         <td><?=$inventario['CantidadActual']?></td>
                                         <td><?=$inventario['Medida']?></td>
                                         <td>
-                                            <a id="EditarPaciente" href="<?=base_url('/editarPaciente/'.$inventario['id_inventario']);?>" class="btn btn-primary" type="button">Editar</a>
                                             <a id="DeletePaciente" href="<?=base_url('/borrarProducto/'.$inventario['id_inventario']);?>" class="btn btn-danger" type="button">Borrar</a>
                                         </td>
                                     </tr>

@@ -49,35 +49,3 @@ bottom: .5em;
 .bgcolor-yellow {
     background-color:yellow;
 }
-
-table {
-    width: 100%;
-    border: 1px solid #000;
- }
- th {
-    width: 25%;
-    text-align: left;
-    vertical-align: top;
-    border: 1px solid #000;
-    border-spacing: 0;
-    border-collapse: collapse;
-    padding: 0.3em;
-    caption-side: bottom;
-    background-color: white;
- }
- td{
-    width: 25%;
-    text-align: left;
-    vertical-align: top;
-    border: 1px solid #000;
-    border-spacing: 0;
-    border-collapse: collapse;
-    padding: 0.3em;
-    caption-side: bottom;
- }
- caption {
-    padding: 0.3em;
- }
- thead{
-     background-color: white;
- }
