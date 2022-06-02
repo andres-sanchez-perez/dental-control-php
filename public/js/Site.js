@@ -33,4 +33,30 @@ $(document).ready(function(){
         $("#CirujiasPrevias").css("display", "none");
     }
     
+
+    $('#ComboProductos').select2();
+    $('#ComboProductos').change(function(){
+        var base_url = window.location.origin;
+
+        $.ajax({
+            type:'get',
+            url: base_url+"/Inventarios/getSingleProduct",
+            dataType: 'json',
+            data:{id:$(this).val()},
+            complete:function(){},
+            success: function(data){
+                $('#Tipo').val(data.inventario[0].Tipo);
+                $('#CantidadActual').val(data.inventario[0].CantidadActual);
+                $('#CantidadMaxima').val(data.inventario[0].CantidadMaxima);
+                $('#CantidadMinima').val(data.inventario[0].CantidadMinima);
+                data.inventario[0].id_inventario;
+            },
+            error: function(){
+                alert("Esto es un error");
+            }
+        })
+        
+        
+    });
+   
 });

@@ -16,7 +16,7 @@ class Cirujias extends BaseController{
         }
         else{
             $cirujias = new Cirujia();
-            $sql = "SELECT CirujiaId, AntecedenteId,NombreCirujia,FechaCirujia,	PacienteId , DoctorACargo from cirujias where 	PacienteId  = ?";
+            $sql = "SELECT CirujiaId, AntecedenteId,NombreCirujia,FechaCirujia,	PacienteId , DoctorACargo from cirujia where 	PacienteId  = ?";
             $query = $cirujias->db->query($sql,$id);
             $datos['Cirujias'] =$query->getResultArray();
             $tituloPagina['TituloPagina'] = "Ver Cirujias";

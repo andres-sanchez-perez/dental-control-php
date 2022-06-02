@@ -1,0 +1,442 @@
+CRITICAL - 2022-06-02 10:47:22 -->  route cannot be found while reverse-routing.
+#0 D:\XAMPP\htdocs\biblioteca\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\XAMPP\htdocs\biblioteca\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(125): redirect('http://localhos...')
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->agregarProducto()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-02 10:48:36 --> Undefined variable $paciente
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\XAMPP\\htdocs...', 30)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(21): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 10:49:03 --> Undefined variable $paciente
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\XAMPP\\htdocs...', 30)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(21): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 10:49:25 --> Undefined variable $paciente
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\XAMPP\\htdocs...', 30)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(21): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 11:01:06 -->  route cannot be found while reverse-routing.
+#0 D:\XAMPP\htdocs\biblioteca\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\XAMPP\htdocs\biblioteca\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(125): redirect('http://localhos...')
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->agregarProducto()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-02 11:52:28 --> Undefined array key "id_inventario"
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 11:52:45 --> Cannot use object of type stdClass as array
+#0 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include()
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-02 11:54:11 --> Undefined array key "id_inventario"
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 11:54:11 --> Undefined array key "id_inventario"
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 11:55:23 --> Undefined array key 0
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 11:57:09 --> Undefined array key 0
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 23)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 11:59:17 --> Undefined property: stdClass::$id_inventario
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 11:59:50 --> Undefined variable $primaryKey
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 11:59:57 --> Undefined property: stdClass::$primaryKey
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 12:01:06 --> Undefined property: stdClass::$id_inventario
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 19)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 12:01:56 --> Undefined property: stdClass::$id_inventario
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 19)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 12:02:57 --> Undefined property: stdClass::$id_inventario
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 19)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 12:05:23 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result()
+#0 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include()
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-06-02 12:05:34 --> Undefined property: stdClass::$id_inventario
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 12:16:20 --> syntax error, unexpected token "return"
+#0 D:\XAMPP\htdocs\biblioteca\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\biblioteca\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Inve...')
+#2 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Inve...')
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-02 12:16:42 --> Undefined property: stdClass::$id_inventario
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 12:17:16 --> Undefined property: stdClass::$id_inventario
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 12:19:18 --> Undefined property: stdClass::$id_inventario
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 12:19:46 --> Undefined property: stdClass::$id_inventario
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 30)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 12:21:58 --> Undefined array key "id_inventario"
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(24): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 12:37:10 --> Undefined array key "Prioridad"
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 134)
+#1 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(23): App\Controllers\Inventarios::IsPrioridad3('34')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#5 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(22): view('InventariosView...', Array)
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#8 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-06-02 12:37:34 --> Undefined array key "Prioridad"
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 134)
+#1 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\VerInventarios.php(23): App\Controllers\Inventarios::IsPrioridad3('34')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#3 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#5 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(22): view('InventariosView...', Array)
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->index()
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#8 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-06-02 14:02:12 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-02 14:26:37 --> Array to string conversion
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\InventariosViews\actualizarCantidades.php(103): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'D:\\XAMPP\\htdocs...', 103)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('InventariosView...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(40): view('InventariosView...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->actualizarProducto()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-02 14:57:59 --> Too few arguments to function App\Controllers\Inventarios::getSingleProduct(), 0 passed in D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-02 14:58:48 --> Too few arguments to function App\Controllers\Inventarios::getSingleProduct(), 0 passed in D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-02 14:59:18 --> Too few arguments to function App\Controllers\Inventarios::getSingleProduct(), 0 passed in D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 14:59:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 14:59:37 --> Call to a member function getRow() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:01:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:01:06 --> Call to a member function getRow() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:01:10 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:01:10 --> Call to a member function getRow() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:01:44 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:01:44 --> Call to a member function getRow() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:01:47 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:01:47 --> Call to a member function getRow() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:02:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:02:26 --> Call to a member function getRowObject() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:02:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:02:28 --> Call to a member function getRowObject() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:03:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:03:31 --> Call to a member function getResultObject() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:03:34 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:03:34 --> Call to a member function getResultObject() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:04:13 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:04:13 --> Call to a member function getResultObject() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:04:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:04:25 --> Call to a member function getResultObject() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:04:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:04:28 --> Call to a member function getResultObject() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:05:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:05:22 --> Call to a member function getResultObject() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:05:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:05:26 --> Call to a member function getResultObject() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:07:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:07:26 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-02 15:07:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+CRITICAL - 2022-06-02 15:07:30 --> Call to a member function getResultArray() on bool
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-02 15:09:52 --> Call to undefined method App\Models\Inventario::findWhere
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(205): CodeIgniter\Model->__call('findWhere', Array)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 15:09:54 --> Call to undefined method App\Models\Inventario::findWhere
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Inventarios.php(205): CodeIgniter\Model->__call('findWhere', Array)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Inventarios->getSingleProduct()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inventarios))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

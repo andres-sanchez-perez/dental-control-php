@@ -51,9 +51,9 @@
                         </li>
                         <li class="nav-item dropdown" type="button" ><a href="#" class="nav-link dropdown-toggle text-white pl-h" data-toggle="dropdown">Inventario</a>
                             <div class="dropdown-menu fade-down">
-                                <a class="dropdown-item" asp-area="" asp-controller="Paciente" asp-action="Index">Ver Inventario</a>
-                                <a class="dropdown-item" asp-area="" asp-controller="Paciente" asp-action="Index">Crear un producto nuevo</a>
-                                <a class="dropdown-item" asp-area="" asp-controller="Paciente" asp-action="Index">Actualizar cantidades del inventario</a>
+                                <a class="dropdown-item" href="<?=base_url('/verInventarios');?>">Ver Inventario</a>
+                                <a class="dropdown-item" href="<?=base_url('/registrarProducto');?>">Agregar un nuevo producto</a>
+                                <a class="dropdown-item" href="<?=base_url('/actualizarProducto');?>">Actualizar cantidades</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown fade-down" type="button" ><a href="#" class="nav-link dropdown-toggle text-white pl-h" data-toggle="dropdown">Calendarios y Citas</a>
@@ -100,8 +100,8 @@
                         </li>
                         <li class="nav-item dropdown" type="button" ><a href="#" class="nav-link dropdown-toggle text-white pl-h" data-toggle="dropdown">Inventario</a>
                             <div class="dropdown-menu fade-down">
-                                <a class="dropdown-item" asp-area="" asp-controller="Paciente" asp-action="Index">Ver Inventario</a>
-                                <a class="dropdown-item" asp-area="" asp-controller="Paciente" asp-action="Index">Actualizar cantidades del inventario</a>
+                                <a class="dropdown-item" href="<?=base_url('/verInventarios');?>">Ver Inventario</a>
+                                <a class="dropdown-item" href="<?=base_url('/actualizarProducto');?>">Actualizar cantidades</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown fade-down" type="button" ><a href="#" class="nav-link dropdown-toggle text-white pl-h" data-toggle="dropdown">Calendarios y Citas</a>
