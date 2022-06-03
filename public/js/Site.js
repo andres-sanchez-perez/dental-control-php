@@ -54,8 +54,41 @@ $(document).ready(function(){
                 alert("Esto es un error");
             }
         })
-        
-        
+    });
+    $('#DeleteProducto').click(function(){
+        if (window.confirm("¿Estás seguro que quieres eliminar el producto?")) {
+            var base_url = window.location.origin;
+            $.ajax({
+                type:'get',
+                url: base_url+"/Inventarios/borrarProducto",
+                dataType: 'json',
+                data:{id:$(this).closest('tr').find('td:eq(0)').text()},
+                complete:function(){},
+                success: function(data){
+                    window.location.href=data.url;
+                },
+                error: function(){
+                    alert("Esto es un error");
+                }
+            })
+        }
+        else{
+            return;
+        }
+    });
+
+    var btnAbrirPopup = document.getElementById('butonAyuda'),
+    overlay=document.getElementById('overlay'),
+    popup =document.getElementById('popup'),
+    btnCerrarPopup = document.getElementById('btn-cerrar-popup');
+
+    btnAbrirPopup.addEventListener('click',function(){
+        overlay.classList.add('active');
+        popup.classList.add('active');
+    });
+    btnCerrarPopup.addEventListener('click',function(){
+        overlay.classList.remove('active');
+        popup.classList.remove('active');
     });
    
 });

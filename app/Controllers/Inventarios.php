@@ -95,9 +95,10 @@ class Inventarios extends BaseController{
     }
     public function borrarProducto($id=null){
         $inventario = new Inventario();
-        $datosTratamiento = $inventario->where('id_inventario',$id)->first();
+        $datosTratamiento = $inventario->where('id_inventario',$_GET['id'])->first();
         $inventario->delete($datosTratamiento);
-        return redirect()->to(base_url('/verInventarios'));
+        $data['url']=base_url('/verInventarios');
+        return json_encode($data,JSON_FORCE_OBJECT);
     }
     public function registrarProducto(){
         if(!isset($_SESSION['Rol'])){

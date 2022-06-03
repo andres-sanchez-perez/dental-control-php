@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="<?=base_url('/css/site.css');?>"/>
     <link rel="stylesheet" href="<?=base_url('/css/jquery-ui.min.css');?>" />
     <link rel="stylesheet" href="<?=base_url('/css/select2.min.css');?>" />
+    <link rel="stylesheet" href="<?=base_url('/fontAwesome/css/all.css');?>" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600|Open+Sans" rel="stylesheet">
+    <script src="<?=base_url('/fontAwesome/js/all.js');?>"></script>
     <script src="<?=base_url('/js/jquery-3.5.1.min.js');?>"></script>
     <script src="<?=base_url('/js/jquery-ui.min.js');?>"></script>
     <script src="<?=base_url('/js/bootstrap.bundle.min.js');?>"></script>
