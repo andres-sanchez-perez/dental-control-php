@@ -85,9 +85,25 @@ class Tratamientos extends BaseController{
 
     public function borrarTratamiento($id=null, $IdPaciente=null){
         $tratamiento = new Tratamiento();
+        $id = $_GET['id'];
+        $IdPaciente = $_GET['IdPaciente'];
         $datosTratamiento = $tratamiento->where('id_tratamiento',$id)->first();
         $tratamiento->delete($datosTratamiento);
-        return redirect()->to(base_url('/verTratamientos/'.$IdPaciente));
+        $sqlTratamientos = "SELECT tratamiento.id_tratamiento, tratamiento.Nombre, tratamiento.Tipo, tratamiento.Fecha,tratamiento.Presupuesto, 
+            tratamiento.Abono, tratamiento.Saldo, tratamiento.FormaPago, tratamiento.FechaPago FROM tratamiento
+            JOIN historial on historial.id_historial = tratamiento.id_historial
+            join paciente on paciente.id_paciente = historial.id_paciente
+            where paciente.id_paciente = ? ";
+        $query = $tratamiento->db->query($sqlTratamientos,$IdPaciente);    
+        $tratamientos = $query->getResultArray();
+        if(count($tratamientos)>0){
+            $data['url']=(base_url('/verTratamientos/'.$IdPaciente));
+            return json_encode($data,JSON_FORCE_OBJECT);
+        }
+        else{
+            $data['url']=(base_url('/verPacientes'));
+            return json_encode($data,JSON_FORCE_OBJECT);
+        }
     }
 
     public function editarTratamiento($id=null,$idPaciente=null){

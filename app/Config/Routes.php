@@ -78,4 +78,4 @@ $routes->post('agregarProducto', 'Inventarios::agregarProducto');
 $routes->get('registrarProducto', 'Inventarios::registrarProducto');
 $routes->get('actualizarProducto', 'Inventarios::actualizarProducto');
 $routes->get('getSingleProduct/(:num)', 'Inventarios::getSingleProduct/$1');
-$routes->post('actualizarCantidades', 'Inventarios::actualizarCantidades');
+$routes->post('actualizarCantidades', 'Inventarios::actualizarCantidades');$routes->get('registrarCirujia', 'Cirujias::registrarCirujia');

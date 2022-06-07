@@ -100,6 +100,7 @@ class Inventarios extends BaseController{
         $data['url']=base_url('/verInventarios');
         return json_encode($data,JSON_FORCE_OBJECT);
     }
+    
     public function registrarProducto(){
         if(!isset($_SESSION['Rol'])){
             $tituloPagina['TituloPagina'] = "Not Logged";

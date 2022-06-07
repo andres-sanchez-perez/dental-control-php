@@ -34,10 +34,12 @@ class Cirujias extends BaseController{
             return view('/errors/error',$datos);
         }else{
             $paciente = new Paciente();
-            $datos['pacientes'] = $paciente->getPacientes();
+            $sql= "SELECT id_paciente,Nombre,Apellido, CONCAT(Nombre,' ',Apellido) as 'NombreCompleto',Cedula,NumCelular,
+            NumFijo,DirDomicilio,Genero,CorreoElectronico,FechaNac,Edad FROM paciente";
+            $datos['pacientes'] = $paciente->db->query($sql)->getResultArray();
             $tituloPagina['TituloPagina'] = "Agregar Cirugia";
             $datos['header'] = view('templates/Header',$tituloPagina);
-            return view('PacientesViews/RegistrarCirujias',$datos);
+            return view('PacientesViews/RegistrarCirujia.php',$datos);
         }
     }
 

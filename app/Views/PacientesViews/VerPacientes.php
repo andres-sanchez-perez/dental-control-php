@@ -55,7 +55,7 @@
                                         </td>
                                     <td>
                                         <a id="EditarPaciente" href="<?=base_url('/editarPaciente/'.$paciente['id_paciente']);?>" class="btn btn-primary" type="button">Editar</a>
-                                        <a id="DeletePaciente" href="<?=base_url('/borrarPaciente/'.$paciente['id_paciente']);?>" class="btn btn-danger" type="button">Borrar</a>
+                                        <a id="DeletePaciente" class="DeletePaciente btn btn-danger" type="button">Borrar</a>
                                     </td>
                                 </tr>
                             <?php endforeach; ?>

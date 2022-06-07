@@ -1,0 +1,110 @@
+CRITICAL - 2022-06-06 19:46:49 --> Trying to access array offset on value of type null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Pacientes.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'D:\\XAMPP\\htdocs...', 143)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Pacientes->Borrar()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pacientes))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:57:42 --> sizeof(): Argument #1 ($value) must be of type Countable|array, App\Models\Tratamiento given
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Tratamientos.php(93): sizeof(Object(App\Models\Tratamiento))
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Tratamientos->borrarTratamiento()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tratamientos))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:57:47 --> sizeof(): Argument #1 ($value) must be of type Countable|array, App\Models\Tratamiento given
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Tratamientos.php(93): sizeof(Object(App\Models\Tratamiento))
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Tratamientos->borrarTratamiento()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tratamientos))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:58:15 --> sizeof(): Argument #1 ($value) must be of type Countable|array, App\Models\Tratamiento given
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Tratamientos.php(93): sizeof(Object(App\Models\Tratamiento))
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Tratamientos->borrarTratamiento()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tratamientos))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 20:03:13 --> Call to undefined method App\Models\Tratamiento::result_array
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Tratamientos.php(92): CodeIgniter\Model->__call('result_array', Array)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Tratamientos->borrarTratamiento()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tratamientos))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 20:03:39 --> Call to undefined method App\Models\Tratamiento::result_array
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Tratamientos.php(92): CodeIgniter\Model->__call('result_array', Array)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Tratamientos->borrarTratamiento()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tratamientos))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 20:03:53 --> Call to undefined method App\Models\Tratamiento::result_array
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Tratamientos.php(92): CodeIgniter\Model->__call('result_array', Array)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Tratamientos->borrarTratamiento()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tratamientos))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 20:06:41 --> count(): Argument #1 ($value) must be of type Countable|array, App\Models\Tratamiento given
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Tratamientos.php(93): count(Object(App\Models\Tratamiento))
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Tratamientos->borrarTratamiento()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tratamientos))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 20:06:51 --> count(): Argument #1 ($value) must be of type Countable|array, App\Models\Tratamiento given
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Tratamientos.php(93): count(Object(App\Models\Tratamiento))
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Tratamientos->borrarTratamiento()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tratamientos))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 20:11:33 --> Invalid file: PacientesViews/RegistrarCirujias.php
+#0 D:\XAMPP\htdocs\biblioteca\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('PacientesViews/...')
+#1 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('PacientesViews/...', Array, true)
+#2 D:\XAMPP\htdocs\biblioteca\app\Controllers\Cirujias.php(40): view('PacientesViews/...', Array)
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Cirujias->registrarCirujia()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cirujias))
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-06 20:12:49 --> Invalid file: PacientesViews/RegistrarCirujias.php
+#0 D:\XAMPP\htdocs\biblioteca\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('PacientesViews/...')
+#1 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('PacientesViews/...', Array, true)
+#2 D:\XAMPP\htdocs\biblioteca\app\Controllers\Cirujias.php(40): view('PacientesViews/...', Array)
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Cirujias->registrarCirujia()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cirujias))
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-06 20:13:00 --> Invalid file: PacientesViews/RegistrarCirujias.php
+#0 D:\XAMPP\htdocs\biblioteca\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('PacientesViews/...')
+#1 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('PacientesViews/...', Array, true)
+#2 D:\XAMPP\htdocs\biblioteca\app\Controllers\Cirujias.php(40): view('PacientesViews/...', Array)
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Cirujias->registrarCirujia()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cirujias))
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-06 20:14:17 --> Invalid file: PacientesViews/RegistrarCirujias.php
+#0 D:\XAMPP\htdocs\biblioteca\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('PacientesViews/...')
+#1 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('PacientesViews/...', Array, true)
+#2 D:\XAMPP\htdocs\biblioteca\app\Controllers\Cirujias.php(40): view('PacientesViews/...', Array)
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Cirujias->registrarCirujia()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cirujias))
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-06 20:15:16 --> Undefined array key "NombreCompleto"
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\PacientesViews\RegistrarCirujia.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 14)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('PacientesViews/...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Cirujias.php(40): view('PacientesViews/...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Cirujias->registrarCirujia()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cirujias))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

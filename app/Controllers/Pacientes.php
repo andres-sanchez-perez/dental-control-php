@@ -131,6 +131,7 @@ class Pacientes extends BaseController{
         $antecedente = new Antecedente();
         $cirujia = new Cirujia();
         $historial = new Historial();
+        $id = $_GET['id'];
         $datosHistorial = $historial->where('id_paciente',$id)->first();
         $sqlCirujia = "DELETE FROM cirujia WHERE PacienteId= ?";
         $sqlAntecedentes = "DELETE FROM antecedentes WHERE PacienteId= ?";
@@ -142,7 +143,8 @@ class Pacientes extends BaseController{
         $tratamiento->db->query($sqlTratamiento,$datosHistorial['id_historial']);
         $historial->db->query($sqlHistorial,$id);
         $paciente->db->query($sqlPaciente,$id);
-        return redirect()->to('/');
+        $data['url']=base_url("/verPacientes");
+        return json_encode($data,JSON_FORCE_OBJECT);
     }
 
     public function Editar($id=null){

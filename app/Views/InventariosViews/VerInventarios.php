@@ -40,7 +40,7 @@
                                         <td><?=$inventario['CantidadActual']?></td>
                                         <td><?=$inventario['Medida']?></td>
                                         <td>
-                                            <a id="DeleteProducto" class="btn btn-danger" type="button">Borrar</a>
+                                            <a id="DeleteProducto" class="DeleteProducto btn btn-danger" type="button">Borrar</a>
                                         </td>
                                     </tr>
                                 <?php elseif(Inventarios::IsPrioridad2($inventario['id_inventario'])):?>
@@ -52,7 +52,7 @@
                                         <td><?=$inventario['CantidadActual']?></td>
                                         <td><?=$inventario['Medida']?></td>
                                         <td>
-                                            <a id="DeleteProducto"  class="btn btn-danger" type="button">Borrar</a>
+                                            <a id="DeleteProducto"  class="DeleteProducto btn btn-danger" type="button">Borrar</a>
                                         </td>
                                     </tr>
                                 <?php else:?>
@@ -64,7 +64,7 @@
                                         <td><?=$inventario['CantidadActual']?></td>
                                         <td><?=$inventario['Medida']?></td>
                                         <td>
-                                            <a id="DeleteProducto"  class="btn btn-danger" type="button">Borrar</a>
+                                            <a id="DeleteProducto"  class="DeleteProducto btn btn-danger" type="button">Borrar</a>
                                         </td>
                                     </tr>
                                 <?php endif?>

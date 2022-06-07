@@ -55,7 +55,7 @@ $(document).ready(function(){
             }
         })
     });
-    $('#DeleteProducto').click(function(){
+    $('.DeleteProducto').click(function(){
         if (window.confirm("¿Estás seguro que quieres eliminar el producto?")) {
             var base_url = window.location.origin;
             $.ajax({
@@ -65,6 +65,53 @@ $(document).ready(function(){
                 data:{id:$(this).closest('tr').find('td:eq(0)').text()},
                 complete:function(){},
                 success: function(data){
+                    alert("Producto borrado con exito");
+                    window.location.href=data.url;
+                },
+                error: function(){
+                    alert("Esto es un error");
+                }
+            })
+        }
+        else{
+            return;
+        }
+    });
+
+    $('.DeletePaciente').click(function(){
+        if (window.confirm("¿Estás seguro que quieres eliminar el paciente?")) {
+            var base_url = window.location.origin;
+            $.ajax({
+                type:'get',
+                url: base_url+"/Pacientes/Borrar",
+                dataType: 'json',
+                data:{id:$(this).closest('tr').find('td:eq(0)').text()},
+                complete:function(){},
+                success: function(data){
+                    alert("Paciente borrado con exito");
+                    window.location.href=data.url;
+                },
+                error: function(){
+                    alert("Esto es un error");
+                }
+            })
+        }
+        else{
+            return;
+        }
+    });
+
+    $('.DeleteTratamiento').click(function(){
+        if (window.confirm("¿Estás seguro que quieres eliminar el tratamiento?")) {
+            var base_url = window.location.origin;
+            $.ajax({
+                type:'get',
+                url: base_url+"/Tratamientos/borrarTratamiento",
+                dataType: 'json',
+                data:{id:$(this).closest('tr').find('td:eq(0)').text(),IdPaciente:$("#idPaciente").val()},
+                complete:function(){},
+                success: function(data){
+                    alert("Tratamiento borrado con exito");
                     window.location.href=data.url;
                 },
                 error: function(){
@@ -82,13 +129,17 @@ $(document).ready(function(){
     popup =document.getElementById('popup'),
     btnCerrarPopup = document.getElementById('btn-cerrar-popup');
 
-    btnAbrirPopup.addEventListener('click',function(){
-        overlay.classList.add('active');
-        popup.classList.add('active');
-    });
-    btnCerrarPopup.addEventListener('click',function(){
-        overlay.classList.remove('active');
-        popup.classList.remove('active');
-    });
+    if(btnAbrirPopup!=null){
+        btnAbrirPopup.addEventListener('click',function(){
+            overlay.classList.add('active');
+            popup.classList.add('active');
+        });
+    }
+    if(btnCerrarPopup!= null){
+        btnCerrarPopup.addEventListener('click',function(){
+            overlay.classList.remove('active');
+            popup.classList.remove('active');
+        });
+    }
    
 });

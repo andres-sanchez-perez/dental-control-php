@@ -35,7 +35,7 @@
                                 <?php else:?>
                                     <a id="EditarTratamiento" href="<?=base_url('/editarTratamiento/'.$tratamiento['id_tratamiento'].'/'.$pacienteId);?>" class="btn btn-secondary disabled" type="button">Registrar Pago</a>
                                 <?php endif?>
-                                <a id="DeleteTratamiento" href="<?=base_url('/borrarTratamiento/'.$tratamiento['id_tratamiento'].'/'.$pacienteId);?>" class="btn btn-danger" type="button">Borrar</a>
+                                <a id="DeleteTratamiento" class="DeleteTratamiento btn btn-danger" type="button">Borrar</a>
                             </td>
                         </tr>
                     <?php endforeach; ?>
