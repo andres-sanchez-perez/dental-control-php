@@ -210,8 +210,8 @@ $(document).ready(function(){
                             var doctor = obj.citas.descripcion;
                             var paciente = obj.citas.title;
                             var fechaEntera = fechaInicio.getFullYear()+'-'+( fechaInicio.getMonth()+1)+'-'+ fechaInicio.getDate();
-                            var horaInicio = fechaInicio.getHours()+":"+fechaInicio.getMinutes();
-                            var horaFin =fechaFin.getHours()+":"+fechaFin.getMinutes();
+                            var horaInicio = fechaInicio.getHours()+":"+String(fechaInicio.getMinutes()).padStart(2,'0');
+                            var horaFin =fechaFin.getHours()+":"+String(fechaFin.getMinutes()).padStart(2,'0');
                             $('#DoctorCita').val(doctor);
                             $('#PacienteCita').val(paciente);
                             $('#FechaCita').val( fechaEntera);
@@ -253,8 +253,8 @@ $(document).ready(function(){
                             var doctor = obj.citas.descripcion;
                             var paciente = obj.citas.title;
                             var fechaEntera = fechaInicio.getFullYear()+'-'+( fechaInicio.getMonth()+1)+'-'+ fechaInicio.getDate();
-                            var horaInicio = fechaInicio.getHours()+":"+fechaInicio.getMinutes();
-                            var horaFin =fechaFin.getHours()+":"+fechaFin.getMinutes();
+                            var horaInicio = fechaInicio.getHours()+":"+String(fechaInicio.getMinutes()).padStart(2,'0');
+                            var horaFin =fechaFin.getHours()+":"+String(fechaFin.getMinutes()).padStart(2,'0');
                             $('#DoctorCita').val(doctor);
                             $('#PacienteCita').val(paciente);
                             $('#FechaCita').val( fechaEntera);
