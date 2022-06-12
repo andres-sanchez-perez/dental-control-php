@@ -15,7 +15,7 @@ class Pacientes extends BaseController{
 
     public function index(){
         
-        if(!isset($_SESSION['Rol'])){
+        if(!Comprobadores::isLogged()){
             $tituloPagina['TituloPagina'] = "Not Logged";
             $datos['headerError'] = view('templates/HeaderNotLogged',$tituloPagina);
             return view('/errors/error',$datos);
@@ -75,7 +75,7 @@ class Pacientes extends BaseController{
     }
 
     public function crearPaciente(){
-        if(!isset($_SESSION['Rol'])){
+        if(!Comprobadores::isLogged()){
             $tituloPagina['TituloPagina'] = "Not Logged";
             $datos['headerError'] = view('templates/HeaderNotLogged',$tituloPagina);
             return view('/errors/error',$datos);
@@ -155,7 +155,7 @@ class Pacientes extends BaseController{
         return view('PacientesViews/editarPaciente',$datos);
     }
     public function actualizarPaciente(){
-        if(!isset($_SESSION['Rol'])){
+        if(!Comprobadores::isLogged()){
             $tituloPagina['TituloPagina'] = "Not Logged";
             $datos['headerError'] = view('templates/HeaderNotLogged',$tituloPagina);
             return view('/errors/error',$datos);

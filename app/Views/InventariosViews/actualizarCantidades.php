@@ -9,7 +9,7 @@
                 <h5 class="card-title text-center">Ingrese los datos del paciente</h5>
                 <p class="card-text">
                     <form id="formActualizarCantidad" class="mt-3" method="post" action="<?=site_url('/actualizarCantidades')?>" enctype="multipart/form-data">
-                        <label class="font-weight-bold" for="ComboConBusqueda">Seleccione el paciente que va a ingresar un tratamiento</label>
+                        <label class="font-weight-bold" for="ComboConBusqueda">Seleccione el producto a agregar cantidad</label>
                         <br/>
                         <select id="ComboProductos" class="form-select " aria-label="Default select example" name="IdInventario">
                             <option selected value="-1">Seleccione un producto</option>

@@ -16,7 +16,7 @@ class Users extends BaseController{
         $usuario = new User();
         $username = $this->request->getVar('username');
         $password = $this->request->getVar('password');
-        $sql = "SELECT userId, username, Nombre, Apellido, correoElectronico, contrasenia, Rol 
+        $sql = "SELECT userId, username, Nombre, Apellido, correoElectronico, contrasenia, Rol,id_doctor 
         from user where contrasenia = ? and (username = ? or correoElectronico = ?)";
         $query = $usuario->db->query($sql,[$password,$username,$username]);
         $result = $query->getRowArray();
@@ -24,6 +24,9 @@ class Users extends BaseController{
             $_SESSION['username']= $result['username'];
             $_SESSION['correoElectronico'] = $result['correoElectronico'];
             $_SESSION['Rol'] = $result['Rol'];
+            if($result['id_doctor'] != null){
+                $_SESSION['id_doctor'] = $result['id_doctor'];
+            }
             return redirect()->to('/');
         }
         else{

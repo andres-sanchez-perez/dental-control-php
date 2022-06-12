@@ -1,4 +1,6 @@
+
 $(document).ready(function(){
+    
     $('#abonoPaciente').on('input',function(){
         if($(this).val()==''){
             $('#SaldoRestante').val(parseFloat($('#Saldo').val())-0);
@@ -33,8 +35,9 @@ $(document).ready(function(){
         $("#CirujiasPrevias").css("display", "none");
     }
     
-
+    $('#ComboDoctoresClinica').select2();
     $('#ComboProductos').select2();
+    
     $('#ComboProductos').change(function(){
         var base_url = window.location.origin;
         $.ajax({
@@ -123,6 +126,28 @@ $(document).ready(function(){
             return;
         }
     });
+    $('.DeleteDoctor').click(function(){
+        if (window.confirm("¿Estás seguro que quieres eliminar el doctor?")) {
+            var base_url = window.location.origin;
+            $.ajax({
+                type:'get',
+                url: base_url+"/Doctores/borrarDoctor",
+                dataType: 'json',
+                data:{id:$(this).closest('tr').find('td:eq(0)').text()},
+                complete:function(){},
+                success: function(data){
+                    alert("Doctor borrado con exito");
+                    window.location.href=data.url;
+                },
+                error: function(){
+                    alert("Esto es un error");
+                }
+            })
+        }
+        else{
+            return;
+        }
+    });
 
     var btnAbrirPopup = document.getElementById('butonAyuda'),
     overlay=document.getElementById('overlay'),
@@ -141,5 +166,256 @@ $(document).ready(function(){
             popup.classList.remove('active');
         });
     }
+
+    /*Calendarios*/
+    
+    
+
    
+    $(".closeModal").click(function(){
+        $('#cita').modal("hide");
+    })
+    $('.closeModalVer').click(function(){
+        $('#citaVer').modal("hide");
+    })
+
+    var id = $('#Rol').val();
+    console.log(id);
+    if(id =="Doctor"){
+        var calendarEl = document.getElementById('agenda');
+        $calendar = new FullCalendar.Calendar(calendarEl,{
+            timeZone: 'local',
+            initialView: 'timeGridWeek',
+            locale: "es",
+            headerToolbar:{
+                left:'prev,next today',
+                center: 'title',
+                right: 'dayGridMonth, timeGridWeek,listWeek'
+            },
+                
+                events: window.location.origin+"/Eventos/show",
+                eventClick: function(info){
+                    var eventoId = info.event.id;
+                    $.ajax({
+                        type:'post',
+                        url: window.location.origin+"/Eventos/find",
+                        dataType: 'json',
+                        data: {
+                            id: eventoId
+                        },
+                        success:function(data){
+                            var obj = JSON.parse(JSON.stringify(data));
+                            var fechaInicio = new Date(obj.citas.start);
+                            var fechaFin = new Date(obj.citas.end);
+                            var doctor = obj.citas.descripcion;
+                            var paciente = obj.citas.title;
+                            var fechaEntera = fechaInicio.getFullYear()+'-'+( fechaInicio.getMonth()+1)+'-'+ fechaInicio.getDate();
+                            var horaInicio = fechaInicio.getHours()+":"+fechaInicio.getMinutes();
+                            var horaFin =fechaFin.getHours()+":"+fechaFin.getMinutes();
+                            $('#DoctorCita').val(doctor);
+                            $('#PacienteCita').val(paciente);
+                            $('#FechaCita').val( fechaEntera);
+                            $('#horaInicioCita').val(horaInicio);
+                            $('#horaFinCita').val(horaFin);
+                            $('#citaVer').modal('show');
+                        }
+                    })
+                }
+                
+        });
+        $calendar.render();
+    }
+    else{
+            var calendarEl = document.getElementById('agenda');
+            $calendar = new FullCalendar.Calendar(calendarEl,{
+            timeZone: 'local',
+            initialView: 'timeGridWeek',
+            locale: "es",
+            headerToolbar:{
+                left:'prev,next today',
+                center: 'title',
+                right: 'dayGridMonth, timeGridWeek,listWeek'
+            },
+                events: window.location.origin+"/Eventos/show",
+                eventClick: function(info){
+                    var eventoId = info.event.id;
+                    $.ajax({
+                        type:'post',
+                        url: window.location.origin+"/Eventos/find",
+                        dataType: 'json',
+                        data: {
+                            id: eventoId
+                        },
+                        success:function(data){
+                            var obj = JSON.parse(JSON.stringify(data));
+                            var fechaInicio = new Date(obj.citas.start);
+                            var fechaFin = new Date(obj.citas.end);
+                            var doctor = obj.citas.descripcion;
+                            var paciente = obj.citas.title;
+                            var fechaEntera = fechaInicio.getFullYear()+'-'+( fechaInicio.getMonth()+1)+'-'+ fechaInicio.getDate();
+                            var horaInicio = fechaInicio.getHours()+":"+fechaInicio.getMinutes();
+                            var horaFin =fechaFin.getHours()+":"+fechaFin.getMinutes();
+                            $('#DoctorCita').val(doctor);
+                            $('#PacienteCita').val(paciente);
+                            $('#FechaCita').val( fechaEntera);
+                            $('#horaInicioCita').val(horaInicio);
+                            $('#horaFinCita').val(horaFin);
+                            $('#citaVer').modal('show');
+                        }
+                    })
+                },
+                dateClick:function(info){
+                    var mnth =("0" + (info.date.getMonth() + 1)).slice(-2);
+                    var day = ("0" + info.date.getDate()).slice(-2);
+                    var str= [info.date.getFullYear(), mnth, day].join("-");
+                    var actual = new Date();
+                    var hora= info.date.getHours() + ":" + String(info.date.getMinutes()).padStart(2,'0');
+                    if(info.date.getFullYear() >= actual.getFullYear()){
+                        if(info.date.getFullYear() > actual.getFullYear()){
+                            $('#FechaCita').val(str);
+                            $('#horaCitaCrear').val(hora);
+                            $('#ComboDoctores').select2({
+                                dropdownParent: $('#cita')
+                            });
+                            $('#ComboPacientes').select2({
+                                dropdownParent: $('#cita')
+                            });
+                            $('#cita').modal("show");
+                        }
+                        else if(info.date.getFullYear() == actual.getFullYear()){
+                            if(info.date.getMonth() >= actual.getMonth()){
+                                if(info.date.getMonth() > actual.getMonth()){
+                                    $('#FechaCita').val(str);
+                                    $('#horaCitaCrear').val(hora);
+                                    $('#ComboDoctores').select2({
+                                        dropdownParent: $('#cita')
+                                    });
+                                    $('#ComboPacientes').select2({
+                                        dropdownParent: $('#cita')
+                                    });
+                                    $('#cita').modal("show");
+                                }
+                                else if(info.date.getMonth() == actual.getMonth()){
+                                    if(info.date.getDate() >= actual.getDate()){
+                                        $('#FechaCita').val(str);
+                                        $('#horaCitaCrear').val(hora)
+                                        $('#ComboDoctores').select2({
+                                            dropdownParent: $('#cita')
+                                        });
+                                        $('#ComboPacientes').select2({
+                                            dropdownParent: $('#cita')
+                                        });
+                                        $('#cita').modal("show");
+                                    }
+                                    else{
+                                        alert("Error: No se puede solicitar una cita en una fecha vencida");
+                                    }
+                                }
+                                else{
+                                    alert("Error: No se puede solicitar una cita en una fecha vencida");
+                                }
+                            }
+                            else{
+                                alert("Error: No se puede solicitar una cita en una fecha vencida");
+                            }
+                        }
+                        else{
+                            alert("Error: No se puede solicitar una cita en una fecha vencida"); 
+                        }
+                        
+                        
+                    }else{
+                    alert("Error: No se puede solicitar una cita en una fecha vencida");
+                    }
+                
+                }
+            });
+            $calendar.render();
+            
+    }
+    
+    $('#ComboDoctoresClinica').change(function(){
+        var idDoctor = $(this).val()
+        if(idDoctor != "-1"){
+            $.ajax({
+                type:'post',
+                url: window.location.origin+"/Eventos/show",
+                dataType: 'json',
+                data: {
+                    id: idDoctor
+                },
+                complete:function(){},
+                success:function(data){
+                    $calendar.removeAllEvents();
+                    if(data.citas != null){
+                        if(data.citas != null)
+                        $calendar.addEventSource( data.citas );
+                        //$calendar.refetchEvents();
+                    }
+                    
+                },
+                error:function(){
+
+                }
+            });
+        }
+        else{
+            $.ajax({
+                type:'post',
+                url: window.location.origin+"/Eventos/show",
+                dataType: 'json',
+                data: {
+                    id: null
+                },
+                complete:function(){},
+                success:function(data){
+                    $calendar.removeAllEvents();
+                    if(data.citas != null){
+                        $calendar.addEventSource( data.citas );
+                        $calendar.refetchEvents();
+                    }
+                    
+                },
+                error:function(){
+
+                }
+            });
+        }
+    }).change();
+
+    $('.agregarCita').click(function(){
+        console.log("Eje");
+        var base_url = window.location.origin;
+        var idDoctor = $('#ComboDoctores').val();
+        var fecha = $('#FechaCita').val();
+        var hora= $('#horaCitaCrear').val();
+        var idPaciente=$('#ComboPacientes').val()
+        $.ajax({
+            type:'post',
+            url: base_url + "/Citas/agendarCita",
+            dataType: 'json',
+            data:
+            {
+                idDoctor:idDoctor,
+                fecha: fecha,
+                hora: hora,
+                idPaciente: idPaciente
+            },
+            complete:function(){},
+            success: function(data){
+                if(data.available){
+                    alert("Cita agregada con exito");
+                    window.location.href=data.url;
+                }
+                else{
+                    alert("Este horario no está disponible");
+                }
+            },
+            error: function(){
+                alert("Esto es un error");
+            }
+        })
+    });
+    /*fin area calendarios*/
+    
 });

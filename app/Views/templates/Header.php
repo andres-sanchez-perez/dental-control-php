@@ -48,8 +48,8 @@
                         </li>
                         <li class="nav-item dropdown" type="button" ><a href="#" class="nav-link dropdown-toggle text-white pl-h" data-toggle="dropdown">Doctores</a>
                             <div class="dropdown-menu fade-down">
-                                <a class="dropdown-item" href="#?>">Ver Doctores de la clinica</a>
-                                <a class="dropdown-item" href="#">Agregar un doctor a la clinica</a>
+                                <a class="dropdown-item" href="<?=base_url('/verDoctores');?>">Ver Doctores de la clinica</a>
+                                <a class="dropdown-item" href="<?=base_url('/registrarDoctor');?>">Agregar un doctor a la clinica</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown" type="button" ><a href="#" class="nav-link dropdown-toggle text-white pl-h" data-toggle="dropdown">Inventario</a>
@@ -61,8 +61,8 @@
                         </li>
                         <li class="nav-item dropdown fade-down" type="button" ><a href="#" class="nav-link dropdown-toggle text-white pl-h" data-toggle="dropdown">Calendarios y Citas</a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" asp-area="" asp-controller="Paciente" asp-action="Index">Ver Citas Diarias</a>
-                                <a class="dropdown-item" asp-area="" asp-controller="Paciente" asp-action="Index">Crear nueva cita</a>
+                                <a class="dropdown-item" href="<?=base_url('/verInventarios');?>">Ver Citas del doctor</a>
+                                <a class="dropdown-item" href="<?=base_url('/verCalendario');?>">Ver el calendario</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown fade-down" type="button" ><a href="#" class="nav-link dropdown-toggle text-white pl-h" data-toggle="dropdown">Reporteria</a>
@@ -109,7 +109,8 @@
                         </li>
                         <li class="nav-item dropdown fade-down" type="button" ><a href="#" class="nav-link dropdown-toggle text-white pl-h" data-toggle="dropdown">Calendarios y Citas</a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" asp-area="" asp-controller="Paciente" asp-action="Index">Ver Citas Diarias</a>
+                            <a class="dropdown-item" href="<?=base_url('/verInventarios');?>">Ver Citas del doctor</a>
+                            <a class="dropdown-item" href="<?=base_url('/verCalendario');?>">Ver el calendario</a>
                             </div>
                         </li>
                         

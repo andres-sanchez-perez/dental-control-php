@@ -1,0 +1,1906 @@
+CRITICAL - 2022-06-11 12:19:22 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:19:22 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:19:23 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:19:29 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:19:31 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:20:11 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:20:14 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:21:09 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:21:50 --> Undefined variable $tratamientos
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\DoctoresViews\verDoctores.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\XAMPP\\htdocs...', 19)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('DoctoresViews/v...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Doctores.php(28): view('DoctoresViews/v...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Doctores->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Doctores))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-11 12:22:42 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:22:59 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:23:25 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:23:50 --> Undefined array key "Genero"
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\DoctoresViews\verDoctores.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 24)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('DoctoresViews/v...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Doctores.php(28): view('DoctoresViews/v...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Doctores->index()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Doctores))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-11 12:24:08 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:25:47 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:26:19 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:26:30 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:26:35 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:28:15 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:29:30 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:34:40 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:34:44 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:35:16 --> Undefined property: CodeIgniter\HTTP\IncomingRequest::$getVar
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Doctores.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\XAMPP\\htdocs...', 58)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Doctores->agregarDoctor()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Doctores))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 12:37:18 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:37:24 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:46:44 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:54:35 --> Trying to access array offset on value of type null
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\DoctoresViews\editarDoctor.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'D:\\XAMPP\\htdocs...', 11)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('DoctoresViews/e...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Doctores.php(85): view('DoctoresViews/e...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Doctores->editarDoctor('34')
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Doctores))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-11 12:54:38 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:54:40 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:55:42 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:55:47 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:56:11 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:56:54 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:57:01 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:57:03 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:57:22 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 12:57:33 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:03:56 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:04:15 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:04:21 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:37:51 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:37:53 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:37:54 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:38:00 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:38:02 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:38:04 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:39:33 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:41:33 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:42:37 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:43:23 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:45:07 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:45:29 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:45:49 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:45:51 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:46:02 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:46:31 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:46:38 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:46:42 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:46:57 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 13:47:04 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:09:45 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:09:49 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:09:59 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:10:01 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:10:04 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:10:16 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:10:31 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:10:32 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:10:36 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:12:13 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:12:20 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 15:12:27 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:13:41 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:13:43 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:14:52 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:17:38 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:18:48 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:18:49 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:19:12 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:19:29 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:20:06 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:21:03 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:21:27 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:22:10 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:25:23 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:27:52 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:29:20 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:32:06 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:32:35 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:32:37 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:32:45 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:33:19 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:33:21 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:33:22 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:33:25 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:33:27 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:34:35 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:37:21 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:37:49 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:44:19 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:44:26 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:44:28 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:44:58 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:45:01 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:46:17 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:47:50 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:49:27 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:50:07 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:50:13 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:50:38 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:50:48 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:53:29 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:53:48 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:54:50 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:55:48 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:57:56 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:58:01 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:58:53 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:59:06 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:59:18 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 16:59:36 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:02:08 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:02:49 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:03:25 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:05:08 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:06:09 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:06:29 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:10:33 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:11:30 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:15:41 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:17:13 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:17:19 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:17:38 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:17:40 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:17:48 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:17:50 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:17:56 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:18:15 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:20:11 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:21:28 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:21:52 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:21:55 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:24:07 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:24:40 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:29:02 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:30:04 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:30:33 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:31:39 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 17:35:08 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:07:58 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:08:47 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:08:59 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:09:15 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:10:11 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:11:06 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:11:57 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:12:24 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:15:26 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:16:01 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:17:48 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:18:30 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 18:19:37 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 20:18:48 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 20:52:28 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 20:52:35 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 20:52:37 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 20:53:20 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 20:56:32 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 20:56:47 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 20:57:29 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 20:58:22 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:08:05 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:08:23 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:08:49 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:11:17 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:11:19 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:11:33 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agregarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:11:37 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:12:09 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:13:33 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:13:49 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agregarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:14:00 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:14:46 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:14:49 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:14:57 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agregarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:15:00 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:16:20 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:16:27 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:20:33 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:21:47 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:21:52 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:23:24 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:23:25 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:23:52 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:25:41 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:25:52 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:26:19 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:26:53 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:27:02 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:27:23 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:27:29 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:27:48 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:27:57 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:29:46 --> syntax error, unexpected token "("
+#0 D:\XAMPP\htdocs\biblioteca\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\XAMPP\\htdocs...')
+#1 D:\XAMPP\htdocs\biblioteca\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-11 21:30:26 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:30:38 --> Call to a member function format() on null
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(43): App\Controllers\Citas->comprobarDisponibilidad(NULL, NULL, NULL)
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:33:54 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:34:16 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:35:39 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:37:50 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:39:13 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:39:48 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:39:55 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:41:23 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:41:36 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:41:47 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:41:48 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:44:17 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:47:48 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:47:59 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:49:53 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:50:05 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:51:13 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:51:25 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 21:57:38 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:58:05 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 21:58:19 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', '2022-06-12', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 22:01:17 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 22:01:27 --> Object of class DateTime could not be converted to string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', Object(DateTime), '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 22:02:21 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 22:02:31 --> Object of class DateTime could not be converted to string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', Object(DateTime), '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 22:03:29 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 22:03:41 --> Object of class DateTime could not be converted to string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', Object(DateTime), '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 22:04:53 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 22:05:05 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(48): App\Controllers\Citas->comprobarDisponibilidad('54', 'Sat Jun 11 2022...', '16:30')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 22:06:05 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 22:06:17 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-11 22:10:04 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 22:10:19 --> Failed to parse time string (Sat Jun 11 2022 19:00:00 GMT-0500 (hora de Ecuador)) at position 40 (d): Double timezone specification
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(45): DateTime->__construct('Sat Jun 11 2022...')
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-11 22:11:16 --> include(D:\XAMPP\htdocs\biblioteca\system\Debug/Toolbar/Views/toolbarloader.js): Failed to open stream: No such file or directory
+#0 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(D:\\XAMP...', 'D:\\XAMPP\\htdocs...', 442)
+#1 D:\XAMPP\htdocs\biblioteca\system\Debug\Toolbar.php(442): include()
+#2 D:\XAMPP\htdocs\biblioteca\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#3 D:\XAMPP\htdocs\biblioteca\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(308): CodeIgniter\Events\Events::trigger('pre_system')
+#5 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-11 22:11:35 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->agendarCita()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

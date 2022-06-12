@@ -9,7 +9,7 @@ use DateTime;
 class Cirujias extends BaseController{
 
     public function index($id=null){
-        if(!isset($_SESSION['Rol'])){
+        if(!Comprobadores::isLogged()){
             $tituloPagina['TituloPagina'] = "Not Logged";
             $datos['headerError'] = view('templates/HeaderNotLogged',$tituloPagina);
             return view('/errors/error',$datos);
@@ -28,7 +28,7 @@ class Cirujias extends BaseController{
     }
 
     public function registrarCirujia(){
-        if(!isset($_SESSION['Rol'])){
+        if(!Comprobadores::isLogged()){
             $tituloPagina['TituloPagina'] = "Not Logged";
             $datos['headerError'] = view('templates/HeaderNotLogged',$tituloPagina);
             return view('/errors/error',$datos);

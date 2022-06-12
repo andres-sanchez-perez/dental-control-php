@@ -6,7 +6,7 @@
         <div class="card-body">
             <h5 class="card-title text-center">Ingrese los datos actualizados del paciente</h5>
             <p class="card-text">
-                <form id="formCrearPaciente" class="mt-3" method="post" action="<?=site_url('/actualizarPaciente')?>" enctype="multipart/form-data">
+                <form id="formActualizarPaciente" class="mt-3" method="post" action="<?=site_url('/actualizarPaciente')?>" enctype="multipart/form-data">
                     <div class="form-group">
                         <input type="hidden" name="id_paciente" value="<?=$Paciente['id_paciente'];?>">
                     </div>

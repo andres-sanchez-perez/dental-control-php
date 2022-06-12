@@ -6,7 +6,7 @@ use App\Models\Inventario;
 class Inventarios extends BaseController{
 
     public function index(){
-        if(!isset($_SESSION['Rol'])){
+        if(!Comprobadores::isLogged()){
             $tituloPagina['TituloPagina'] = "Not Logged";
             $datos['headerError'] = view('templates/HeaderNotLogged',$tituloPagina);
             return view('/errors/error',$datos);

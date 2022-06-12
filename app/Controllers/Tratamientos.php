@@ -11,7 +11,7 @@ class Tratamientos extends BaseController{
 
 
     public function verTratamientos($idPaciente=null){
-        if(isset($_SESSION['Rol'])){
+        if(Comprobadores::isLogged()){
         $tratamiento = new Tratamiento();
         $tituloPagina['TituloPagina'] = "Ver tratamientos";
         $datos['header'] = view('templates/Header',$tituloPagina);

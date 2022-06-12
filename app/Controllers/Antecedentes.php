@@ -15,7 +15,7 @@ class Antecedentes extends BaseController{
 
 
     public function verAntecedente($idPaciente= null){
-        if(!isset($_SESSION['Rol'])){
+        if(!Comprobadores::isLogged()){
             $tituloPagina['TituloPagina'] = "Not Logged";
             $datos['headerError'] = view('templates/HeaderNotLogged',$tituloPagina);
             return view('/errors/error',$datos);
@@ -54,7 +54,7 @@ class Antecedentes extends BaseController{
     
 
     public function crearAntecedentes($idPaciente=null){
-        if(!isset($_SESSION['Rol'])){
+        if(!Comprobadores::isLogged()){
             $tituloPagina['TituloPagina'] = "Not Logged";
             $datos['headerError'] = view('templates/HeaderNotLogged',$tituloPagina);
             $datos['IdPaciente'] = $idPaciente;
@@ -70,7 +70,7 @@ class Antecedentes extends BaseController{
 
 
     public function RegistrarAntecedente(){
-        if(!isset($_SESSION['Rol'])){
+        if(!Comprobadores::isLogged()){
             $tituloPagina['TituloPagina'] = "Not Logged";
             $datos['headerError'] = view('templates/HeaderNotLogged',$tituloPagina);
             return view('/errors/error',$datos);
@@ -139,7 +139,7 @@ class Antecedentes extends BaseController{
     }
 
     public function borrarAntecedente($id=null){
-        if(!isset($_SESSION['Rol'])){
+        if(!Comprobadores::isLogged()){
             $tituloPagina['TituloPagina'] = "Not Logged";
             $datos['headerError'] = view('templates/HeaderNotLogged',$tituloPagina);
             return view('/errors/error',$datos);
