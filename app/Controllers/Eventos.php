@@ -10,13 +10,15 @@ class Eventos extends BaseController{
     public function show($id = null){
         if($_SESSION['Rol'] == "Doctor"){
             $eventos = new Evento();
-            $sql = "SELECT * from evento where id_doctor = ?";
-            $query = $eventos->db->query($sql,$_SESSION['id_doctor']);
+            $sql = "SELECT * from evento 
+            join cita on cita.id_cita = evento.id_cita
+            where evento.id_doctor = ? and (cita.Estado = ? or cita.Estado = ?)";
+            $query = $eventos->db->query($sql,array($_SESSION['id_doctor'],"Pendiente","Confirmada"));
             $evento = $query->getResultArray();
-            return json_encode($evento);
+            $data['citas'] = $evento;
+            return json_encode($data);
         }
         else{
-
             if(isset($_POST["id"])){
                 $id = $_POST["id"];
             }
@@ -26,13 +28,19 @@ class Eventos extends BaseController{
             
             if($id == null){
                 $eventos = new Evento();
-                $evento = $eventos->getEventos();
+                $sql = "SELECT * from evento 
+                join cita on cita.id_cita = evento.id_cita
+                where cita.Estado = ? or cita.Estado = ?";
+                $query = $eventos->db->query($sql,array("Pendiente","Confirmada"));
+                $evento = $query->getResultArray();
                 $data['citas'] = $evento;
                 return json_encode($data);
             }else{
                 $eventos = new Evento();
-                $sql = "SELECT * from evento where id_doctor = ?";
-                $query = $eventos->db->query($sql,$id);
+                $sql = "SELECT * from evento 
+                join cita on cita.id_cita = evento.id_cita
+                where evento.id_doctor = ? and (cita.Estado = ? or cita.Estado = ?)";
+                $query = $eventos->db->query($sql,array($id,"Pendiente","Confirmada"));
                 $evento = $query->getResultArray();
                 if(sizeof($evento)>0){
                     $data['citas'] = $evento;

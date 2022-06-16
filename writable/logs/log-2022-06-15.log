@@ -1,0 +1,150 @@
+CRITICAL - 2022-06-15 19:56:45 --> Call to a member function format() on string
+#0 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(26): App\Controllers\Citas->VerificarCitasValidas()
+#1 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->verCalendario()
+#2 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-15 20:06:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada'' at line 3
+CRITICAL - 2022-06-15 20:06:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada'' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(35): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:06:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+CRITICAL - 2022-06-15 20:06:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(44): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:06:20 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+CRITICAL - 2022-06-15 20:06:20 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(44): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:06:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada'' at line 3
+CRITICAL - 2022-06-15 20:06:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada'' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(35): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:06:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada'' at line 3
+CRITICAL - 2022-06-15 20:06:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada'' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(35): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:06:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+CRITICAL - 2022-06-15 20:06:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(44): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:07:43 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada'' at line 3
+CRITICAL - 2022-06-15 20:07:43 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada'' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(34): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:07:43 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+CRITICAL - 2022-06-15 20:07:43 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(43): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:09:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+CRITICAL - 2022-06-15 20:09:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(43): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:10:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+CRITICAL - 2022-06-15 20:10:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(43): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:10:33 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+CRITICAL - 2022-06-15 20:10:33 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 'Pendiente' or cita.Estado == 'Confirmada')' at line 3
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(43): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:11:14 --> Column 'id_doctor' in where clause is ambiguous
+CRITICAL - 2022-06-15 20:11:14 --> Column 'id_doctor' in where clause is ambiguous
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(43): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-06-15 20:11:15 --> Column 'id_doctor' in where clause is ambiguous
+CRITICAL - 2022-06-15 20:11:15 --> Column 'id_doctor' in where clause is ambiguous
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT * from e...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * from e...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * from e...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Eventos.php(43): CodeIgniter\Database\BaseConnection->query('SELECT * from e...', Array)
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Eventos->show()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

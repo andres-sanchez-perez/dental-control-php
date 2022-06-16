@@ -180,7 +180,6 @@ $(document).ready(function(){
     })
 
     var id = $('#Rol').val();
-    console.log(id);
     if(id =="Doctor"){
         var calendarEl = document.getElementById('agenda');
         $calendar = new FullCalendar.Calendar(calendarEl,{

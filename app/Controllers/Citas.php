@@ -23,7 +23,7 @@ class Citas extends BaseController{
             return view('/errors/error',$datos);
         }
         else{
-            
+            $this->VerificarCitasValidas();
             $doctores = new Doctor();
             $sql = "SELECT id_doctor, Nombre,Apellido, CONCAT(Nombre,' ',Apellido) as NombreCompleto,Genero,NumCelular,NumFijo,Especialidad,CorreoElectronico,FechaNac,Cedula,Edad from doctor";
             $query = $doctores->db->query($sql);
@@ -35,6 +35,27 @@ class Citas extends BaseController{
             $tituloPagina['TituloPagina'] = "Ver calendario";
             $datos['header'] = view('templates/Header',$tituloPagina);
             return view('Calendars/Calendario',$datos);
+        }
+    }
+
+
+    private function VerificarCitasValidas(){
+        $citas = new Cita();
+        $fecha_actual = strtotime(date("Y-m-d"),time());
+        $sql= "SELECT id_cita,id_paciente,id_doctor,Fecha,HoraInicio,HoraFin,Estado from cita";
+        $query = $citas->db->query($sql);
+        $citasObtenidas = $query->getResultArray();
+        foreach($citasObtenidas as $cita){
+            $fecha_cita = strtotime($cita['Fecha']);
+            if($fecha_actual > $fecha_cita){
+                if($cita['Estado'] == "Confirmada"){
+                    $cita['Estado'] == "Completa";
+                }
+                else{
+                    $cita['Estado'] = "Cancelada";
+                }
+                $citas->update($cita['id_cita'],$cita);
+            }
         }
     }
 
@@ -90,6 +111,7 @@ class Citas extends BaseController{
                 'Estado' => $estado
             ];  
             $citas->insert($citaAInsertar);
+            $idCita = $citas->getInsertID();
             $eventos = new Evento();
             $pacientes = new Paciente();
             $doctores = new Doctor();
@@ -104,7 +126,8 @@ class Citas extends BaseController{
                 "descripcion" => "Doctor a cargo ".$doctorObtenido['NombreCompleto'],
                 "start" => date(DATE_ISO8601,strtotime($FechaCita." ".$horaInicio)),
                 "end"=> date(DATE_ISO8601,strtotime($FechaCita." ".$horaFin)),
-                "id_doctor" => $idDoctor
+                "id_doctor" => $idDoctor,
+                'id_cita' => $idCita
             ];
             $eventos->insert($evento);
             $data['url'] = base_url('/Citas/verCalendario');
