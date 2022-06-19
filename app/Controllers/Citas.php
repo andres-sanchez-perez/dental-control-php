@@ -80,6 +80,8 @@ class Citas extends BaseController
         return json_encode($citas);
     }
 
+
+    
     private function VerificarCitasValidas()
     {
         $citas = new Cita();
