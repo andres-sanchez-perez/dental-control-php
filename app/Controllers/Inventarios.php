@@ -93,6 +93,7 @@ class Inventarios extends BaseController{
         }
         return  $prioridad;
     }
+    
     public function borrarProducto($id=null){
         $inventario = new Inventario();
         $datosTratamiento = $inventario->where('id_inventario',$_GET['id'])->first();

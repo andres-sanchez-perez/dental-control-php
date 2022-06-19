@@ -167,10 +167,33 @@ $(document).ready(function(){
         });
     }
 
-    /*Calendarios*/
+    $('#ComboCitasClinica').select2();
+    $('#ComboCitasClinica').change(function(){
+        $('#CitasEstado').jqGrid().setGridParam({url : window.location.origin+"/Citas/obtenerTodasLasCitas?estado="+$(this).val()}).trigger("reloadGrid");
+    });
     
-    
+    $('#CitasEstado').jqGrid({
+        url: window.location.origin+"/Citas/obtenerTodasLasCitas?estado="+$('#ComboCitasClinica').val(),
+        dataType:'json',
+        mtype:'GET',
+        width:1300,
+        colNames:['id_cita','Nombre del paciente','Nombre del doctor','Fecha de la cita','Hora de la cita','Estado'],
+        colModel:[
+            {name: 'id_cita',index:'id_cita', key:true, hidden:true, widht:50},
+            {name: 'Nombre del paciente',index:'Nombre del paciente',width:50},
+            {name: 'Nombre del doctor',index:'Nombre del doctor',width:50},
+            {name: 'Fecha de la cita',index:'Fecha de la cita',width:50},
+            {name: 'Hora de la cita',index:'Hora de la cita',width:50},
+            {name: 'Estado',index:'Estado',width:50}
+        ],
+        sortname: 'Estado',
+        editable: false,
+        sortorder: "asc",
+        pager: '#pager2'
+    });
+    $("#CitasEstado").jqGrid('navGrid','#pager2',{edit:false,add:false,del:false});
 
+    /*Calendarios*/
    
     $(".closeModal").click(function(){
         $('#cita').modal("hide");
@@ -416,5 +439,6 @@ $(document).ready(function(){
         })
     });
     /*fin area calendarios*/
-    
+
+   
 });

@@ -1,0 +1,101 @@
+ERROR - 2022-06-18 18:58:19 --> Unknown column 'HayQueMultar' in 'field list'
+CRITICAL - 2022-06-18 18:58:19 --> Unknown column 'HayQueMultar' in 'field list'
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT id_cita,...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id_cita,...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id_cita,...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(46): CodeIgniter\Database\BaseConnection->query('SELECT id_cita,...')
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(26): App\Controllers\Citas->VerificarCitasValidas()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->verCalendario()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-18 18:59:24 --> Unknown column 'HayQueMultar' in 'field list'
+CRITICAL - 2022-06-18 18:59:24 --> Unknown column 'HayQueMultar' in 'field list'
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT id_cita,...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id_cita,...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id_cita,...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(46): CodeIgniter\Database\BaseConnection->query('SELECT id_cita,...')
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(26): App\Controllers\Citas->VerificarCitasValidas()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->verCalendario()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-18 18:59:28 --> Unknown column 'HayQueMultar' in 'field list'
+CRITICAL - 2022-06-18 18:59:28 --> Unknown column 'HayQueMultar' in 'field list'
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT id_cita,...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id_cita,...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id_cita,...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(46): CodeIgniter\Database\BaseConnection->query('SELECT id_cita,...')
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(26): App\Controllers\Citas->VerificarCitasValidas()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->verCalendario()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-18 18:59:43 --> Unknown column 'id_cita' in 'field list'
+CRITICAL - 2022-06-18 18:59:43 --> Unknown column 'id_cita' in 'field list'
+#0 D:\XAMPP\htdocs\biblioteca\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT id_cita,...', 0)
+#1 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT id_cita,...')
+#2 D:\XAMPP\htdocs\biblioteca\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id_cita,...')
+#3 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(46): CodeIgniter\Database\BaseConnection->query('SELECT id_cita,...')
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(26): App\Controllers\Citas->VerificarCitasValidas()
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->verCalendario()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-18 19:24:58 --> Invalid file: Calendars/citaPorEstado.php
+#0 D:\XAMPP\htdocs\biblioteca\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Calendars/citaP...')
+#1 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('Calendars/citaP...', Array, true)
+#2 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(60): view('Calendars/citaP...', Array)
+#3 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->verCitasPorEstado()
+#4 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-06-18 20:17:36 --> Undefined variable $Citas
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\Calendars\citasPorEstado.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\XAMPP\\htdocs...', 31)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('Calendars/citas...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(54): view('Calendars/citas...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->verCitasPorEstado()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-18 20:18:27 --> Undefined variable $Citas
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\Calendars\citasPorEstado.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\XAMPP\\htdocs...', 31)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('Calendars/citas...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(61): view('Calendars/citas...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->verCitasPorEstado()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-18 20:18:30 --> Undefined variable $Citas
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\Calendars\citasPorEstado.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\XAMPP\\htdocs...', 31)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('Calendars/citas...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(61): view('Calendars/citas...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->verCitasPorEstado()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-18 20:18:41 --> Undefined array key "NombreCompletoPaciente"
+#0 D:\XAMPP\htdocs\biblioteca\app\Views\Calendars\citasPorEstado.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\XAMPP\\htdocs...', 34)
+#1 D:\XAMPP\htdocs\biblioteca\system\View\View.php(210): include('D:\\XAMPP\\htdocs...')
+#2 D:\XAMPP\htdocs\biblioteca\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\XAMPP\htdocs\biblioteca\system\Common.php(1089): CodeIgniter\View\View->render('Calendars/citas...', Array, true)
+#4 D:\XAMPP\htdocs\biblioteca\app\Controllers\Citas.php(61): view('Calendars/citas...', Array)
+#5 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(832): App\Controllers\Citas->verCitasPorEstado()
+#6 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Citas))
+#7 D:\XAMPP\htdocs\biblioteca\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\XAMPP\htdocs\biblioteca\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

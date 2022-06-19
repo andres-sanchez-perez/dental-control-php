@@ -50,6 +50,8 @@ if (file_exists(APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php')) {
     require APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php';
 }
 
+
+
 $routes->get('loginIndex', 'Users::index');
 $routes->get('logout', 'Users::logOut');
 $routes->get('verPacientes', 'Pacientes::index');
@@ -86,3 +88,5 @@ $routes->get('editarDoctor/(:num)', 'Doctores::editarDoctor/$1');
 $routes->post('actualizarDoctor', 'Doctores::actualizarDoctor');
 $routes->get('verCalendario', 'Citas::verCalendario');
 $routes->post('agendarCita', 'Citas::agendarCita');
+$routes->get('verCitasPorEstado', 'Citas::verCitasPorEstado');
+$routes->get('verCirujias/(:num)', 'Cirujias::index/$1');

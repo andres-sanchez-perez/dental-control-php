@@ -7,7 +7,7 @@ class Cita extends Model{
     protected $table      = 'cita';
     // Uncomment below if you want add primary key
     protected $primaryKey = 'id_cita';
-    protected $allowedFields =['id_paciente','id_doctor','Fecha','HoraInicio','HoraFin','Estado'];
+    protected $allowedFields =['id_paciente','id_doctor','Fecha','HoraInicio','HoraFin','Estado','HayQueMultar','CitaMultada'];
     public function getCitas(){
         return $this->findAll();
     }
