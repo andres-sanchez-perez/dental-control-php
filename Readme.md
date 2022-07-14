@@ -13,3 +13,6 @@ contraseña: Admin123456
 
 Link del deploy: https://dental-control.herokuapp.com/
 
+
+Documentación full calendar: https://fullcalendar.io/
+
