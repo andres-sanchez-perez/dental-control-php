@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `heroku_dd2ab98310a4a23` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `heroku_dd2ab98310a4a23`;
+CREATE DATABASE  IF NOT EXISTS `dental_control` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `dental_control`;
 -- MySQL dump 10.13  Distrib 8.0.33, for Win64 (x86_64)
 --
 -- Host: us-cdbr-east-05.cleardb.net    Database: heroku_dd2ab98310a4a23
